@@ -1,2 +1,2 @@
-# geophysical-data-reconstruction
+# geophysical-data-reconstruction (GDR)
 
